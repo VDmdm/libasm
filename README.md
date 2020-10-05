@@ -5,4 +5,6 @@
 
 Бонусы: ft_lst_size, ft_lst_push_front, ft_lst_sor, ft_remove_if, ft_atoi_base
 
++ тесты
+
 nasm - x64
